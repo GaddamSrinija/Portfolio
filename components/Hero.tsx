@@ -68,20 +68,20 @@ export default function Hero() {
           >
             <Mail size={16} /> Email me
           </a>
-          <a
-            href={profile.github}
-            className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-hairline-strong text-muted hover:border-amber hover:text-amber transition-colors"
-            aria-label="GitHub"
-          >
-            <Github size={17} />
-          </a>
-          <a
-            href={profile.linkedin}
-            className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-hairline-strong text-muted hover:border-amber hover:text-amber transition-colors"
-            aria-label="LinkedIn"
-          >
-            <Linkedin size={17} />
-          </a>
+      <a
+  href={profile.github}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-hairline-strong text-muted hover:border-amber hover:text-amber transition-colors"
+  aria-label="GitHub"
+></a>
+        <a
+  href={profile.linkedin}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-hairline-strong text-muted hover:border-amber hover:text-amber transition-colors"
+  aria-label="LinkedIn"
+></a>
         </motion.div>
 
         <motion.div
