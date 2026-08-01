@@ -4,8 +4,8 @@ export const profile = {
   subrole: "B.Tech, Electronics & Communication Engineering — IIIT Allahabad",
   phone: "+91-9701031024",
   email: "srinijagaddam063@gmail.com",
-  linkedin: "#", // placeholder — provide real URL to link
-  github: "#", // placeholder — provide real URL to link
+  linkedin: "https://www.linkedin.com/in/srinija-gaddam/", 
+  github: "https://github.com/GaddamSrinija", 
   tagline:
     "B.Tech ECE student at IIIT Allahabad, CGPA 8.93. I build full-stack products end to end — real-time bidding, authentication, admin dashboards — and back it with 300+ solved algorithmic problems and a top-2% JEE Mains rank.",
 };
