@@ -25,7 +25,7 @@ export default function About() {
             className="max-w-2xl"
           >
             <p className="text-muted leading-relaxed">
-              I&apos;m a first-year B.Tech student in Electronics and Communication
+              I&apos;m a third-year B.Tech student in Electronics and Communication
               Engineering at IIIT Allahabad, with a CGPA of 8.93.
             </p>
             <p className="mt-5 text-muted leading-relaxed">
