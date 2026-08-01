@@ -72,7 +72,7 @@ export const projects: Project[] = [
       "Responsive, theme-adaptive UI built with Lucide-React",
     ],
     stack: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "JWT", "bcrypt.js", "Cloudinary", "Framer Motion"],
-    github: "#",
+    github: "https://github.com/GaddamSrinija/Sneakerhead.git",
   },
   {
     id: "hostel-management",
@@ -91,8 +91,8 @@ export const projects: Project[] = [
       "Deployed on Netlify (frontend) + Render (backend) + MongoDB Atlas, serving live traffic",
     ],
     stack: ["React.js", "Node.js", "Express.js", "MongoDB", "Google OAuth", "JWT"],
-    github: "#",
-    live: "#",
+    github: "https://github.com/GaddamSrinija/Hostel-management-system-project.git",
+    live: "https://hostel-management-1-xwlr.onrender.com/",
   },
 ];
 
